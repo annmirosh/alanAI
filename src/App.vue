@@ -1,8 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <alanBtn alan-key="39cba4c426066c57084918704b30f9092e956eca572e1d8b807a3e2338fdd0dc/stage"></alanBtn>
-  <alan-btn alan-key="39cba4c426066c57084918704b30f9092e956eca572e1d8b807a3e2338fdd0dc/stage"></alan-btn>
+  <alan-button alan-key="39cba4c426066c57084918704b30f9092e956eca572e1d8b807a3e2338fdd0dc/stage"></alan-button>
 </template>
 
 <script>
